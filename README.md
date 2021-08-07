@@ -2,7 +2,7 @@
 
 I am the Co-founder and CTO of @semio-ai. I love creating tools for roboticists and software engineers (IDEs, editors, simulators, RPC systems, languages, etc.). My current software engineering interests are Rust, computer graphics/GPGPU, and network protocols.
 
-I'm proficient in web development (React, TypeScript, etc.), systems programming (C++, Rust, etc.), emedded systems and kernel development, compiler design and development, Cloud DevOps, modern graphics APIs, and more.
+I'm proficient in web development (React, TypeScript, etc.), systems programming (C++, Rust, etc.), embedded systems and kernel development, compiler design and development, Cloud DevOps, modern graphics APIs, and more.
 
 <!--
 **bmcdorman/bmcdorman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
