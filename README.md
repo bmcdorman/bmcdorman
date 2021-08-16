@@ -4,6 +4,8 @@ I am the Co-founder and CTO of Semio. I love creating tools for roboticists and 
 
 I'm proficient in robotics, web development (React, TypeScript, etc.), systems programming (C++, Rust, etc.), embedded systems and kernel development, compiler design and development, Cloud DevOps, modern graphics APIs, and more.
 
+State is the root of all evil in code.
+
 <!--
 **bmcdorman/bmcdorman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
